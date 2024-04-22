@@ -24,8 +24,8 @@ onMounted(() => {
 
 </script>
 <template>
-  <div v-if="!isLoading && product" class="mx-auto w-fit mt-10">
-    <div class="flex gap-5">
+  <div v-if="!isLoading && product" class="mx-auto w-fit mt-10 px-6">
+    <div class="flex gap-5 flex-col lg:flex-row ">
       <div class="w-[350px] h-[400px]">
         <Slider :images="product.images" />
       </div>
