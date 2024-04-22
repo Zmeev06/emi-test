@@ -1,0 +1,394 @@
+{
+  "products": [
+    {
+      "id": "0",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    }
+  ],
+  "card": [
+    {
+      "id": "1",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Bloom, Rubber base - Каучуковая база прозрачная без кисти (30 мл.)",
+      "description": "Каучуковая база для гель-лака средней консистенции, без кисти, прозрачная.",
+      "price": 800,
+      "volume": 30,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/4/0/4/item_404233/shop_items_catalog_image404233.jpg"
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Monami, Rubber Base Scotch - Базовое каучуковое покрытие для гель-лака (15 мл.)",
+      "description": "Базовое каучуковое покрытие, обеспечивает идеальную сцепку с ногтевой пластиной.",
+      "price": 795,
+      "volume": 15,
+      "country": "Россия",
+      "effect": "Магнитный (кошка)",
+      "images": [
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/small_shop_items_catalog_image327271.png",
+        "https://imkosmetik.com/upload/shop_1/3/2/7/item_327271/shop_property_file_327271_49903.jpg"
+      ]
+    }
+  ]
+}
